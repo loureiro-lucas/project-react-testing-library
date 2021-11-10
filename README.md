@@ -44,7 +44,7 @@ The objective was to practice my **react testing skills** using `React testing l
 
   - Test if the page shows the image: `https://media.giphy.com/media/kNSeTs31XBZ3G/giphy.gif`.
 
-### 5. Test `<Pokedex.js />` component:
+##### 5. Test `<Pokedex.js />` component:
 
   - Test if the page contains an `h2` heading with the text `Encountered pokemons`.
 
